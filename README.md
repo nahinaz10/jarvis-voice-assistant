@@ -116,11 +116,3 @@ python Jarvis_speech_assistant.py
 
 ---
 
-## 👨‍💻 Author
-
-**Nahidha Wasim I**
-B.E. Computer Science and Engineering
-K.Ramakrishnan College of Engineering, Samayapuram, Trichy
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/nahidha-wasim-i-762177397)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/nahinaz10)
